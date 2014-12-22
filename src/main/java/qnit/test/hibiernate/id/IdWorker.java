@@ -3,7 +3,7 @@ package qnit.test.hibiernate.id;
 /**
  * 64位ID (42(毫秒)+5(机器ID)+5(业务编码)+12(重复累加))
  * 
- * @author Polim
+ * @author yanjr
  */
 public class IdWorker {
 	private final static long twepoch = 1288834974657L;
